@@ -1,0 +1,14 @@
+{
+  "name": "walkthrough-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Document any website in numbered screenshots, with Playwright. Read-only.",
+  "type": "module",
+  "scripts": {
+    "screens": "node screens.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "dotenv": "^18.0.3"
+  }
+}
