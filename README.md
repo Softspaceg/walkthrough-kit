@@ -134,7 +134,8 @@ Rules:
 ## Let the AI write a walkthrough
 
 Open this folder in Claude Code (or another AI coding tool with the Playwright MCP browser), and send
-this prompt, replacing what is in square brackets:
+this prompt, replacing what is in square brackets. Claude Code also reads the rules in
+[CLAUDE.md](CLAUDE.md) by itself; with another tool, tell it to read `CLAUDE.md` first.
 
 ```
 Make a walkthrough for [Contacts] in walkthroughs/[contacts].mjs, the same way as

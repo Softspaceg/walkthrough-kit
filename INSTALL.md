@@ -19,6 +19,9 @@ cd walkthrough-kit
 
 Every command below runs **inside this folder**.
 
+**One copy per project.** Your walkthroughs and `notes/` belong to your project: keep them in your
+own copy (or your project's repository), and do not push them to the kit's repository.
+
 ## 3. Install
 
 ```
